@@ -1,6 +1,14 @@
 # ClientApp
 
 * Boilerplate for Angular app
+- angular cli
+- routing(module)
+- shared(module)
+- flex-layout
+- ngrx/schematics
+- ngrx/store
+- ngrx/store-devtools
+- pwa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
